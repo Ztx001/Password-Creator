@@ -1,0 +1,45 @@
+.root{
+	-fx-background-color: linear-gradient(#796bc7, #cfcaeb);
+}
+
+#sectionOne {
+    -fx-background-color: transparent;
+        -fx-padding: 10px;
+}
+#labelVBox {
+    -fx-background-color: transparent;
+}
+#mainLabel{
+    -fx-font-family: TRON;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+#checkBoxesHBox{
+    -fx-background-color: transparent;
+}
+.checkbox{
+    -fx-text-fill: white;
+}
+#sliderVBox {
+    -fx-background-color: transparent;
+}
+#sliderLabel{
+    -fx-text-fill: white;
+}
+#slider {
+    -fx-fill-tick-label: red;
+    -fx-background-color: transparent;
+}
+#sliderVBox{
+    -fx-padding: 10px;
+}
+
+
+#sectionTwo {
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+}
+
+#sectionThree {
+    -fx-background-color: transparent;
+}
